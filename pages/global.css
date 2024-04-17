@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-istok-web: "Istok Web";
+  --font-playfair-display: "Playfair Display";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-41xl: 60px;
+  --font-size-17xl: 36px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-mediumpurple: #9765ac;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-4xs-1: 8.1px;
+  --padding-5xs: 8px;
+  --padding-29xl-3: 48.3px;
+  --padding-6xs-9: 6.9px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+}
